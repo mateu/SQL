@@ -1,0 +1,210 @@
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule
+1012	14	1627	4	13:00:00	170	0	1	0	1	0	0
+1562	36	2408	5	12:00:00	110	1	0	1	0	0	0
+1642	29	1514	2	11:00:00	70	0	1	0	1	0	0
+2001	20	1519	5	07:30:00	110	1	0	1	0	0	0
+2245	19	1530	5	13:30:00	110	1	0	1	0	0	0
+2633	48	3420	5	16:00:00	50	0	1	0	1	0	0
+2647	49	3353	3	18:00:00	50	0	1	0	1	0	0
+3600	41	3420	5	13:00:00	140	1	0	1	0	0	0
+4196	10	3309	4	10:30:00	140	0	1	0	1	0	0
+4810	23	3319	5	08:00:00	50	0	1	0	1	0	0
+4812	24	3330	3	12:00:00	80	0	1	0	1	0	0
+
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule
+1000	11	1231	5	10:00:00	50	1	0	1	0	1	0
+1002	12	1619	4	15:30:00	110	1	0	1	0	1	0
+1004	13	1627	4	08:00:00	50	1	0	1	0	1	0
+1006	13	1627	4	09:00:00	110	1	0	1	0	1	0
+1012	14	1627	4	13:00:00	170	0	1	0	1	0	0
+1030	16	1231	5	11:00:00	50	1	1	1	1	1	0
+1156	37	3443	5	08:00:00	50	1	1	1	1	1	0
+1162	37	3443	5	09:00:00	80	1	0	1	0	1	0
+1168	37	3445	5	11:00:00	50	1	1	1	1	1	0
+1180	38	3446	5	11:30:00	80	1	0	1	0	1	0
+1196	39	3415	5	15:00:00	50	1	1	1	1	1	0
+1500	33	1142	5	08:00:00	50	1	1	1	1	1	0
+1502	34	1142	5	09:00:00	50	1	1	1	1	1	0
+1560	35	2408	3	10:00:00	50	1	0	1	0	1	0
+1642	29	1514	2	11:00:00	70	0	1	0	1	0	0
+2001	20	1519	5	07:30:00	110	1	0	1	0	0	0
+2005	20	1515	5	11:00:00	50	1	0	1	1	0	0
+2015	21	1131	5	09:00:00	110	1	0	1	0	1	0
+2071	50	1624	5	10:00:00	50	1	1	1	1	1	0
+2075	51	1624	5	07:00:00	110	1	0	1	0	1	0
+2089	52	1624	5	12:00:00	50	1	1	0	1	1	0
+2103	53	1624	5	11:00:00	50	1	1	0	1	1	0
+2213	17	1532	5	10:00:00	110	1	0	1	1	0	0
+2223	18	1532	5	12:00:00	50	1	0	1	0	1	0
+2431	27	3322	5	09:00:00	50	1	0	1	0	1	0
+2633	48	3420	5	16:00:00	50	0	1	0	1	0	0
+2639	49	3353	3	09:00:00	50	1	0	1	0	1	0
+2647	49	3353	3	18:00:00	50	0	1	0	1	0	0
+2889	45	2423	5	09:00:00	50	1	1	1	1	1	0
+2891	45	2423	5	11:00:00	50	1	1	1	1	1	0
+2907	46	3445	5	08:00:00	50	1	1	1	1	1	0
+2911	46	3445	5	12:00:00	50	1	1	1	1	1	0
+2915	46	3353	5	10:00:00	50	1	1	1	1	1	0
+2925	47	3422	5	15:00:00	50	1	0	1	0	1	0
+2933	47	3422	5	09:00:00	240	0	0	0	0	0	1
+3030	30	3352	5	09:00:00	80	1	0	1	0	1	0
+3040	31	3352	5	11:00:00	50	1	1	1	1	1	0
+3045	31	3352	5	12:00:00	50	1	1	1	1	1	0
+3050	32	3343	5	10:00:00	50	1	1	1	1	1	0
+3055	32	3317	5	15:00:00	50	1	1	1	1	1	0
+3065	40	3345	5	08:00:00	110	1	0	1	0	1	0
+3070	42	3346	5	10:30:00	140	1	0	1	0	1	0
+3082	44	3346	5	08:00:00	50	1	1	1	1	1	0
+3085	43	3346	5	09:00:00	50	1	1	1	1	1	0
+3115	54	3352	5	08:00:00	50	1	1	1	1	1	0
+3120	54	3352	5	10:00:00	50	1	1	1	1	1	0
+4025	4	3315	5	11:00:00	50	1	0	1	0	1	0
+4172	8	3317	3	09:00:00	50	1	0	1	0	1	0
+4192	9	3309	4	08:00:00	50	1	1	1	1	1	0
+4196	10	3309	4	10:30:00	140	0	1	0	1	0	0
+4750	1	3313	5	09:00:00	50	1	1	0	1	1	0
+4755	2	3415	5	08:00:00	50	1	1	1	1	0	0
+4760	3	3415	5	10:00:00	50	1	1	0	1	1	0
+4768	6	3307	5	15:00:00	110	0	1	1	1	0	0
+4800	23	3305	5	08:00:00	50	1	0	1	0	1	0
+4810	23	3319	5	08:00:00	50	0	1	0	1	0	0
+4812	24	3330	3	12:00:00	80	0	1	0	1	0	0
+4813	24	3406	3	10:00:00	50	1	0	1	0	1	0
+4825	25	3319	5	11:00:00	50	1	1	1	1	1	0
+
+class duration in minutes	number of classes
+50	51
+70	1
+80	5
+110	14
+140	3
+170	1
+240	1
+
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule	SubjectID	CategoryID	SubjectCode	SubjectName	SubjectDescription
+2431	27	3322	5	09:00:00	50	1	0	1	0	1	0	27	CSC	CSC 110	Programming in BASIC	Computer programming and program design using the Visual Basic programming language. Emphasis is on Program Design and Algorithm Development while writing programs primarily about mathematical and scientific applications.
+2451	27	1639	5	13:00:00	50	1	0	1	0	1	0	27	CSC	CSC 110	Programming in BASIC	Computer programming and program design using the Visual Basic programming language. Emphasis is on Program Design and Algorithm Development while writing programs primarily about mathematical and scientific applications.
+
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule	SubjectID	CategoryID	SubjectCode	SubjectName	SubjectDescription
+2633	48	3420	5	16:00:00	50	0	1	0	1	0	0	48	MAT	MAT 103	Geometry and Visualization	Basic plane geometry concepts, emphasizing problem-solving. Right triangle trigonometry. Introduction to 3-D geometry/spatial thinking. Directed towards students with no high school geometry but who plan a career in science/engineering.
+2639	49	3353	3	09:00:00	50	1	0	1	0	1	0	49	MAT	MAT 104	Trigonometry	Elementary plane goemetry, right triangle tirgonometry, general angels, identities, equations, word problems, and selected topics.
+2647	49	3353	3	18:00:00	50	0	1	0	1	0	0	49	MAT	MAT 104	Trigonometry	Elementary plane goemetry, right triangle tirgonometry, general angels, identities, equations, word problems, and selected topics.
+2889	45	2423	5	09:00:00	50	1	1	1	1	1	0	45	MAT	MAT 080	Preparatory Mathematics	Individualized instruction in Arithmetic, Algebra I and II, Geometry, nad Intermediate Algebra.
+2891	45	2423	5	11:00:00	50	1	1	1	1	1	0	45	MAT	MAT 080	Preparatory Mathematics	Individualized instruction in Arithmetic, Algebra I and II, Geometry, nad Intermediate Algebra.
+2895	45	2423	5	13:00:00	50	1	1	1	1	1	0	45	MAT	MAT 080	Preparatory Mathematics	Individualized instruction in Arithmetic, Algebra I and II, Geometry, nad Intermediate Algebra.
+2907	46	3445	5	08:00:00	50	1	1	1	1	1	0	46	MAT	MAT 097	Elementary Algebra	First course in Algebra includes signed numbers, linear equations, linear inequalities, products and factorization of polynomials, and operations with quotients of polynomials.
+2911	46	3445	5	12:00:00	50	1	1	1	1	1	0	46	MAT	MAT 097	Elementary Algebra	First course in Algebra includes signed numbers, linear equations, linear inequalities, products and factorization of polynomials, and operations with quotients of polynomials.
+2915	46	3353	5	10:00:00	50	1	1	1	1	1	0	46	MAT	MAT 097	Elementary Algebra	First course in Algebra includes signed numbers, linear equations, linear inequalities, products and factorization of polynomials, and operations with quotients of polynomials.
+2917	47	3422	5	14:00:00	50	1	1	1	1	1	0	47	MAT	MAT 098	Intermediate Algebra	Sets and the real number system, polynomial and rational expressions, exponents and radicals, first and second degree equations, linear systems of equations, and graphs.
+2925	47	3422	5	15:00:00	50	1	0	1	0	1	0	47	MAT	MAT 098	Intermediate Algebra	Sets and the real number system, polynomial and rational expressions, exponents and radicals, first and second degree equations, linear systems of equations, and graphs.
+2933	47	3422	5	09:00:00	240	0	0	0	0	0	1	47	MAT	MAT 098	Intermediate Algebra	Sets and the real number system, polynomial and rational expressions, exponents and radicals, first and second degree equations, linear systems of equations, and graphs.
+3030	30	3352	5	09:00:00	80	1	0	1	0	1	0	30	ECO	ECO 100	Survey of Economics	Economics applied to various comtemporary social problems and issues. Provides an introduction to economic principles concerning national prosperity, market behavior, income inequality, the role of government, and economic fluctuations.
+3031	30	3352	5	13:30:00	80	1	0	1	0	1	0	30	ECO	ECO 100	Survey of Economics	Economics applied to various comtemporary social problems and issues. Provides an introduction to economic principles concerning national prosperity, market behavior, income inequality, the role of government, and economic fluctuations.
+3040	31	3352	5	11:00:00	50	1	1	1	1	1	0	31	ECO	ECO 200	Principles of Economics: Microeconomics	Covers resource allocation and income distribution with emphasis on price determination, production costs, and market structures. Intermediate algebra or equivalent required.
+3045	31	3352	5	12:00:00	50	1	1	1	1	1	0	31	ECO	ECO 200	Principles of Economics: Microeconomics	Covers resource allocation and income distribution with emphasis on price determination, production costs, and market structures. Intermediate algebra or equivalent required.
+3050	32	3343	5	10:00:00	50	1	1	1	1	1	0	32	ECO	ECO 201	Principles of Economics: Macroeconomics	Analysis of the aggregate economy: GDP, inflation, business cycles, trade and finance. Intermediate algebra or equivalent required.
+3055	32	3317	5	15:00:00	50	1	1	1	1	1	0	32	ECO	ECO 201	Principles of Economics: Macroeconomics	Analysis of the aggregate economy: GDP, inflation, business cycles, trade and finance. Intermediate algebra or equivalent required.
+3070	42	3346	5	10:30:00	140	1	0	1	0	1	0	42	HIS	HIS 101	World History to 1500	Historic foundations and development of the great civilizations from prehistoric days to the Renaissance with emphasis on social, political, economic and geographic aspects. Attention to the nature of history as an intellectual and academic discipline.
+3082	44	3346	5	08:00:00	50	1	1	1	1	1	0	44	HIS	HIS 112	U.S. History Since 1865	Includes Reconstruction, industrialization, urbanization, westward movement, political reform movements, agrarian protest, progressive period, 1920's Great Depressioin and the New Deal, WWII, the conservative 50's, liberalism of the 60's and 70's, and into the next century.
+3085	43	3346	5	09:00:00	50	1	1	1	1	1	0	43	HIS	HIS 111	U.S. History to 1877	American history from the colonial period through Reconstruction. Emphasis on the American Revolution, the National Period, slavery, territorial expansion, the Civil War and Reconstruction.
+3090	44	3346	5	13:30:00	110	1	0	1	0	1	0	44	HIS	HIS 112	U.S. History Since 1865	Includes Reconstruction, industrialization, urbanization, westward movement, political reform movements, agrarian protest, progressive period, 1920's Great Depressioin and the New Deal, WWII, the conservative 50's, liberalism of the 60's and 70's, and into the next century.
+
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule
+1000	11	1231	5	10:00:00	50	1	0	1	0	1	0
+1004	13	1627	4	08:00:00	50	1	0	1	0	1	0
+1030	16	1231	5	11:00:00	50	1	1	1	1	1	0
+1031	16	1231	5	14:00:00	50	1	1	1	1	1	0
+1156	37	3443	5	08:00:00	50	1	1	1	1	1	0
+1168	37	3445	5	11:00:00	50	1	1	1	1	1	0
+1183	38	3415	5	13:00:00	50	1	1	1	1	1	0
+1184	38	3415	5	14:00:00	50	1	1	1	1	1	0
+1196	39	3415	5	15:00:00	50	1	1	1	1	1	0
+1500	33	1142	5	08:00:00	50	1	1	1	1	1	0
+1502	34	1142	5	09:00:00	50	1	1	1	1	1	0
+1560	35	2408	3	10:00:00	50	1	0	1	0	1	0
+2005	20	1515	5	11:00:00	50	1	0	1	1	0	0
+2051	22	1515	4	13:00:00	50	1	1	1	1	0	0
+2071	50	1624	5	10:00:00	50	1	1	1	1	1	0
+2089	52	1624	5	12:00:00	50	1	1	0	1	1	0
+2103	53	1624	5	11:00:00	50	1	1	0	1	1	0
+2223	18	1532	5	12:00:00	50	1	0	1	0	1	0
+2431	27	3322	5	09:00:00	50	1	0	1	0	1	0
+2451	27	1639	5	13:00:00	50	1	0	1	0	1	0
+2633	48	3420	5	16:00:00	50	0	1	0	1	0	0
+2639	49	3353	3	09:00:00	50	1	0	1	0	1	0
+2647	49	3353	3	18:00:00	50	0	1	0	1	0	0
+2889	45	2423	5	09:00:00	50	1	1	1	1	1	0
+2891	45	2423	5	11:00:00	50	1	1	1	1	1	0
+2895	45	2423	5	13:00:00	50	1	1	1	1	1	0
+2907	46	3445	5	08:00:00	50	1	1	1	1	1	0
+2911	46	3445	5	12:00:00	50	1	1	1	1	1	0
+2915	46	3353	5	10:00:00	50	1	1	1	1	1	0
+2917	47	3422	5	14:00:00	50	1	1	1	1	1	0
+2925	47	3422	5	15:00:00	50	1	0	1	0	1	0
+3040	31	3352	5	11:00:00	50	1	1	1	1	1	0
+3045	31	3352	5	12:00:00	50	1	1	1	1	1	0
+3050	32	3343	5	10:00:00	50	1	1	1	1	1	0
+3055	32	3317	5	15:00:00	50	1	1	1	1	1	0
+3082	44	3346	5	08:00:00	50	1	1	1	1	1	0
+3085	43	3346	5	09:00:00	50	1	1	1	1	1	0
+3115	54	3352	5	08:00:00	50	1	1	1	1	1	0
+3120	54	3352	5	10:00:00	50	1	1	1	1	1	0
+4025	4	3315	5	11:00:00	50	1	0	1	0	1	0
+4055	5	3313	5	14:00:00	50	1	0	1	0	1	0
+4172	8	3317	3	09:00:00	50	1	0	1	0	1	0
+4192	9	3309	4	08:00:00	50	1	1	1	1	1	0
+4750	1	3313	5	09:00:00	50	1	1	0	1	1	0
+4751	1	3313	5	13:00:00	50	1	1	0	1	1	0
+4755	2	3415	5	08:00:00	50	1	1	1	1	0	0
+4760	3	3415	5	10:00:00	50	1	1	0	1	1	0
+4800	23	3305	5	08:00:00	50	1	0	1	0	1	0
+4810	23	3319	5	08:00:00	50	0	1	0	1	0	0
+4813	24	3406	3	10:00:00	50	1	0	1	0	1	0
+4825	25	3319	5	11:00:00	50	1	1	1	1	1	0
+
+ClassID	SubjectID	ClassRoomID	Credits	StartTime	Duration	MondaySchedule	TuesdaySchedule	WednesdaySchedule	ThursdaySchedule	FridaySchedule	SaturdaySchedule
+1002	12	1619	4	15:30:00	110	1	0	1	0	1	0
+1012	14	1627	4	13:00:00	170	0	1	0	1	0	0
+1020	15	3404	4	13:00:00	110	1	0	1	0	1	0
+1031	16	1231	5	14:00:00	50	1	1	1	1	1	0
+1183	38	3415	5	13:00:00	50	1	1	1	1	1	0
+1184	38	3415	5	14:00:00	50	1	1	1	1	1	0
+1196	39	3415	5	15:00:00	50	1	1	1	1	1	0
+1562	36	2408	5	12:00:00	110	1	0	1	0	0	0
+1642	29	1514	2	11:00:00	70	0	1	0	1	0	0
+2051	22	1515	4	13:00:00	50	1	1	1	1	0	0
+2089	52	1624	5	12:00:00	50	1	1	0	1	1	0
+2223	18	1532	5	12:00:00	50	1	0	1	0	1	0
+2245	19	1530	5	13:30:00	110	1	0	1	0	0	0
+2451	27	1639	5	13:00:00	50	1	0	1	0	1	0
+2633	48	3420	5	16:00:00	50	0	1	0	1	0	0
+2647	49	3353	3	18:00:00	50	0	1	0	1	0	0
+2895	45	2423	5	13:00:00	50	1	1	1	1	1	0
+2911	46	3445	5	12:00:00	50	1	1	1	1	1	0
+2917	47	3422	5	14:00:00	50	1	1	1	1	1	0
+2925	47	3422	5	15:00:00	50	1	0	1	0	1	0
+3031	30	3352	5	13:30:00	80	1	0	1	0	1	0
+3045	31	3352	5	12:00:00	50	1	1	1	1	1	0
+3055	32	3317	5	15:00:00	50	1	1	1	1	1	0
+3090	44	3346	5	13:30:00	110	1	0	1	0	1	0
+3123	56	3346	5	12:00:00	110	1	0	1	0	1	0
+3600	41	3420	5	13:00:00	140	1	0	1	0	0	0
+4055	5	3313	5	14:00:00	50	1	0	1	0	1	0
+4196	10	3309	4	10:30:00	140	0	1	0	1	0	0
+4751	1	3313	5	13:00:00	50	1	1	0	1	1	0
+4768	6	3307	5	15:00:00	110	0	1	1	1	0	0
+4810	23	3319	5	08:00:00	50	0	1	0	1	0	0
+4812	24	3330	3	12:00:00	80	0	1	0	1	0	0
+4880	26	1231	5	13:30:00	110	1	0	1	0	1	0
+
+SubjectName	SubjectCode
+Introduction to Business	BUS 101
+Design	ART 101
+General Biology	BIO 101
+Chemistry	CHE 101
+Microcomputer Applications	CIS 101
+First Year Theory and Ear Training	MUS 101
+Composition - Fundamentals	ENG 101
+World History to 1500	HIS 101
+General Physics	PHY 101
+Introduction to Political Science	POL 101
