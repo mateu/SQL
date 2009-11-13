@@ -9,6 +9,7 @@ join Musical_Preferences MP
   on C.CustomerID = MP.CustomerID
 join Musical_Styles MS
   on MP.StyleID=MS.StyleID
+;
 
 # 2
 select distinct EntStageName, EntStreetAddress, EntCity, EntState, EntZipCode, EntPhoneNumber, EntWebPage, EntEmailAddress
@@ -23,6 +24,7 @@ select distinct EntStageName, EntStreetAddress, EntCity, EntState, EntZipCode, E
   join Engagements Eng
     on Ent.EntertainerID = Eng.EntertainerID
  where ( ContractPrice / (hour(Stoptime - StartTime) + (minute(StopTime - StartTime)/60)) ) < 100
+;
  
  # 4
  select AgtFirstName, AgtLastName, EntStageName
@@ -47,8 +49,7 @@ select distinct EntStageName, EntStreetAddress, EntCity, EntState, EntZipCode, E
  and C1.CustState = C2.CustState  
   join Musical_Preferences MP1
     on C1.CustomerID = MP1.CustomerID
-
-  ;
+;
   
  
  # 6
@@ -104,3 +105,4 @@ join Musical_Styles MS
   on ES.StyleID = MS.StyleID
 where MS.StyleName = 'Modern Rock'
   and Ent.EntState in ('IN', 'KY', 'IL', 'OH')
+;
