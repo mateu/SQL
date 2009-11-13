@@ -53,7 +53,7 @@ select distinct EntStageName, EntStreetAddress, EntCity, EntState, EntZipCode, E
   
  
  # 6
- select EntStageName
+ select distinct EntStageName
  from Entertainers Ent
  join Entertainer_Members EM
    on Ent.EntertainerID = EM.EntertainerID
