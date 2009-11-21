@@ -1,5 +1,5 @@
 # mateu x hunter
-# mxhunter@indiana
+# mxhunter
 # November 12, 2009
 # Assignment dos
 
