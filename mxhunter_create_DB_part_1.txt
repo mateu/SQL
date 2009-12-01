@@ -1,0 +1,22 @@
+The data model involves student test scores at different points in time.  We're interested in the overall test score, but also the scores for individual parts of the test we'll call "skills".  In addition students have teachers and schools that they belong to when they take a test.  Thus, we can aggregate scores by teacher or skill.
+
+Some of the entities are:
+
+* student
+* teacher
+* admin - test a point in time given to a paticular grade level. e.g Fall 2009 Kindergarten.
+* skill (part of a test)
+* school
+
+
+Some transactional tables:
+
+* student admin teacher school table 
+* admin student scores
+* admin skill student scores
+* teacher admin scores
+* teacher admin skill scores
+
+
+
+
