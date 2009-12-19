@@ -54,8 +54,27 @@ select DISTINCT MP1.CustomerID, C1.CustFirstName, C1.CustLastName,
 
 
 #5 
-select Eng.EntertainerID, Eng.StartTime, count(*)
-from Engagements Eng
-group by Eng.StartTime, Eng.EntertainerID
-order by Eng.EntertainerID, Eng.StartTime
+select T1.EntertainerID, T1.StartTime, T1.max_occurrence_of_start_time, T2.number_of_engagements, 
+round((T1.max_occurrence_of_start_time / T2.number_of_engagements)*100, 0) as max_percent_of_total_engagements
+from 
+	( 
+	select OST.EntertainerID,  OST.StartTime, max(OST.occurrences_of_start_time) max_occurrence_of_start_time
+	from 
+	(
+		select Eng.EngagementNumber, Eng.EntertainerID, Eng.StartTime, count(*) as occurrences_of_start_time
+		from Engagements Eng
+		group by Eng.StartTime, Eng.EntertainerID
+		order by Eng.EntertainerID, Eng.StartTime
+	) OST
+	group by OST.EntertainerID
+) T1
+JOIN
+(
+	select Eng2.EntertainerID, count(*) number_of_engagements
+	  from Engagements Eng2
+	group by Eng2.EntertainerID
+) T2
+ON T1.EntertainerID = T2.EntertainerID
 ;
+
+  
